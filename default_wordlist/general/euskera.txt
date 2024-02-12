@@ -5,6 +5,7 @@ artxiboa
 ataria
 aupa
 aurrera
+book-appointment
 bai
 berri
 bidali

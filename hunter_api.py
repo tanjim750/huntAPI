@@ -1,5 +1,4 @@
 #usr/bin/bash
-clear
 bi='\033[34;1m' #biru
 i='\033[32;1m' #ijo
 pur='\033[35;1m' #purple
@@ -40,7 +39,13 @@ read -p"╚═══➣➣ " pil
 if [ $pil = 1 ]
 then
 echo $i
-python main.py
+python crawling/main.py
+fi
+
+if [ $pil = 2 ]
+then
+echo $i
+python hunting/main.py
 fi
 
 if [ $pil = 0 ]

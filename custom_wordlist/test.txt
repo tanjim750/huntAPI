@@ -1,0 +1,8 @@
+admin
+medical
+current-medical
+live-medical
+current-live-medical
+current_medical
+live_medical
+current_live_medical

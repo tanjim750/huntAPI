@@ -11,6 +11,3 @@ web_url = input(input_text("Enter your target Web URL(with 'http or https')"))
 
 while len(web_url) < 1:
     web_url = input(input_text(Fore.RED+f'Enter a valid Web URL(with "http or https")'))
-
-
-

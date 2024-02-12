@@ -1,0 +1,2 @@
+URL,Response,End-Point,Accepted-Requests
+https://wafid.com/book-appointment,Success,book-appointment,"GET, POST"
